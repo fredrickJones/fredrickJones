@@ -1,0 +1,57 @@
+.text-primary {
+	color: rgba(138, 30, 4, 1);
+}
+
+.font-thin {
+	font-family: "Titillium Web", sans-serif;
+	font-weight: 200;
+}
+
+.font-semibold {
+	font-family: "Titillium Web", sans-serif;
+	font-weight: 600;
+}
+
+ul.social-buttons li a {
+	color: rgba(90, 90, 90, 1);
+	background-color: rgba(190, 190, 190, 1);
+}
+ul.social-buttons li a:hover {
+	color: rgba(190, 190, 190, 1);
+	background-color: rgba(90, 90, 90, 1);
+}
+
+.btn-xl {
+	color: rgba(90, 90, 90, 1);
+	border-color: rgba(90, 90, 90, 1);
+	background-color: rgba(190, 190, 190, 1);
+}
+.btn-xl:hover {
+	color: rgba(190, 190, 190, 1);
+	border-color: rgba(190, 190, 190, 1);
+	background-color: rgba(90, 90, 90, 1);
+}
+
+.navbar-default .navbar-nav>.active>a {
+	color: rgba(90, 90, 90, 1);
+	border-color: rgba(90, 90, 90, 1);
+	background-color: rgba(190, 190, 190, 1);
+}
+.navbar-default .navbar-nav>.active>a:hover {
+	color: rgba(190, 190, 190, 1);
+	border-color: rgba(190, 190, 190, 1);
+	background-color: rgba(90, 90, 90, 1);	
+}
+
+.navbar-default .nav li a {
+	color: rgba(90, 90, 90, 1);
+}
+.navbar-default .nav li a:hover {
+	color: rgba(190, 190, 190, 1);
+}
+
+.navbar-default .nav li a:hover, .navbar-default .nav li a:focus {
+	color: rgb(255, 255, 255);
+}
+
+
