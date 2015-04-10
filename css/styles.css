@@ -55,6 +55,7 @@ ul.social-buttons li a:hover {
 }
 
 .navbar-default .nav li a {
+	font-family: "Source Sans Pro", sans-serif;
 	color: rgba(190, 190, 190, 1);
 }
 .navbar-default .nav li a:hover {
@@ -62,6 +63,23 @@ ul.social-buttons li a:hover {
 }
 
 .timeline>li .timeline-image {
+	background-color: rgba(90, 90, 90, 1);
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+	background: rgba(190, 190, 190, 0.5);
+}
+
+.btn-primary {
+	font-family: "Source Sans Pro", sans-serif;
+	font-weight: 700;
+	color: rgba(90, 90, 90, 1);
+	border-color: rgba(90, 90, 90, 1);
+	background-color: rgba(190, 190, 190, 1);
+}
+.btn-primary:hover {
+	color: rgba(190, 190, 190, 1);
+	border-color: rgba(60, 60, 60, 1);
 	background-color: rgba(90, 90, 90, 1);
 }
 
