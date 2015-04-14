@@ -1,3 +1,11 @@
+a {
+	color: rgba(142, 156, 191, 1);
+}
+a:hover, a:focus, a:active, a.active {
+	color: rgba(72, 79, 97, 1);
+	text-decoration: none;
+}
+
 .text-primary {
 	color: rgba(90, 90, 90, 1);
 }
@@ -11,6 +19,12 @@
 	font-family: "Titillium Web", sans-serif;
 	font-weight: 200;
 	color: rgba(90, 90, 90, 1);
+}
+
+.portfolio-modal .modal-content p.item-intro {
+	font-family: "Titillium Web", sans-serif;
+	font-weight: 600;
+	font-style: normal;
 }
 
 .font-thin {
@@ -81,6 +95,25 @@ ul.social-buttons li a:hover {
 	color: rgba(190, 190, 190, 1);
 	border-color: rgba(60, 60, 60, 1);
 	background-color: rgba(90, 90, 90, 1);
+}
+
+section h3.section-subheading {
+	font-family: "Titillium Web", sans-serif;
+	font-weight: 200;
+	margin-bottom: 75px;
+	text-transform: none;
+	font-size: 16px;
+	font-style: italic;
+	color: rgba(190, 190, 190, 1);
+}
+
+h4.font-semibold {
+	color: rgba(190, 190, 190, 1);
+}
+
+::selection {
+	text-shadow: none;
+	background: rgba(138, 152, 189, 1);
 }
 
 
