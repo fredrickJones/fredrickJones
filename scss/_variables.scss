@@ -1,0 +1,39 @@
+// Variables
+
+// Restate Bootstrap Variables
+
+$white: 	 rgba(255, 255,255, 1) !default;
+$gray-100: rgba(248, 249, 250, 1) !default;
+$gray-200: rgba(233, 236, 239, 1) !default;
+$gray-300: rgba(222, 226, 230, 1) !default;
+$gray-400: rgba(206, 212, 218, 1) !default;
+$gray-500: rgba(173, 181, 189, 1) !default;
+$gray-600: rgba(134, 142, 150, 1) !default;
+$gray-700: rgba(73, 80, 87, 1) !default;
+$gray-800: rgba(52, 58, 64, 1) !default;
+$gray-900: rgba(33, 37, 41, 1) !default;
+$black: 	 rgba(0, 0, 0, 1) !default;
+
+$blue:    rgba(15, 85, 123, 1) !default;
+$indigo:  rgba(102, 16, 242, 1) !default;
+$purple:  rgba(111, 66, 193, 1) !default;
+$pink:    rgba(232, 62, 140, 1) !default;
+$red:     rgba(136, 30, 37, 1) !default;
+$orange:  rgba(178, 87, 12, 1) !default;
+$yellow:  rgba(242, 236, 0, 1) !default;
+$green:   rgba(99, 97, 2, 1) !default;
+$teal:    rgba(32, 201, 151, 1) !default;
+$cyan:    rgba(4, 131, 199, 1) !default;
+
+$primary:       $blue !default;
+$secondary:     $gray-600 !default;
+$success:       $green !default;
+$info:          $cyan !default;
+$warning:       $orange !default;
+$danger:        $red !default;
+$light:         $gray-100 !default;
+$dark:          $gray-800 !default;
+
+// Page Variables
+
+$sidebar-base-width: 17rem;
